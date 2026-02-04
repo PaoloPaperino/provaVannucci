@@ -1,4 +1,4 @@
 def main() -> None:
-    print("Cioa, sono Paolo!")
+    print("Ciao, sono Paolo! ejrnejrfporei")
     print("Questo è il mio nuovo progetto")
     
